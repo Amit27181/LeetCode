@@ -31,6 +31,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -41,6 +42,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -54,4 +56,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Amit27181/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
