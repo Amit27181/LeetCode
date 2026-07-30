@@ -31,6 +31,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Amit27181/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
@@ -60,6 +61,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Amit27181/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
