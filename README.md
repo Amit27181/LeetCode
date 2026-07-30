@@ -33,6 +33,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
@@ -60,4 +61,13 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
