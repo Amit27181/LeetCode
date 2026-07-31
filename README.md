@@ -74,4 +74,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Amit27181/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
