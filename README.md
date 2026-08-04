@@ -9,6 +9,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0001-two-sum](https://github.com/Amit27181/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0090-subsets-ii](https://github.com/Amit27181/LeetCode/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Amit27181/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -46,6 +47,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
