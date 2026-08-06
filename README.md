@@ -46,6 +46,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/Amit27181/LeetCode/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/Amit27181/LeetCode/tree/master/3794-reverse-string-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
