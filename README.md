@@ -17,6 +17,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0414-third-maximum-number](https://github.com/Amit27181/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Amit27181/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -36,6 +37,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Amit27181/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -115,4 +117,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Amit27181/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
