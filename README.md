@@ -17,6 +17,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amit27181/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amit27181/LeetCode/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Amit27181/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Amit27181/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -32,6 +33,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0219-contains-duplicate-ii](https://github.com/Amit27181/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amit27181/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Amit27181/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Amit27181/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Amit27181/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
