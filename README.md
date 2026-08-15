@@ -31,6 +31,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amit27181/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Amit27181/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
@@ -114,6 +116,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Amit27181/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
