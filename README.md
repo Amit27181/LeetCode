@@ -10,6 +10,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0004-median-of-two-sorted-arrays](https://github.com/Amit27181/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/Amit27181/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Amit27181/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
@@ -184,4 +186,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
