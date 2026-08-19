@@ -124,6 +124,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Amit27181/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Amit27181/LeetCode/tree/master/0520-detect-capital) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/Amit27181/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
