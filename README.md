@@ -62,6 +62,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Amit27181/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
@@ -82,6 +83,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Amit27181/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Amit27181/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
@@ -124,6 +126,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Amit27181/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Amit27181/LeetCode/tree/master/0520-detect-capital) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,4 +195,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
