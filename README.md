@@ -174,6 +174,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Amit27181/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
