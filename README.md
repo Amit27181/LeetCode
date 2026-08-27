@@ -8,6 +8,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0001-two-sum](https://github.com/Amit27181/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amit27181/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
@@ -48,6 +49,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
@@ -147,6 +149,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
