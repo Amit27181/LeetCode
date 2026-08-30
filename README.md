@@ -27,6 +27,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Amit27181/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit27181/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Amit27181/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amit27181/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -171,6 +172,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit27181/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
