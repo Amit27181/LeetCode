@@ -73,6 +73,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Amit27181/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -219,8 +220,13 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Amit27181/LeetCode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
