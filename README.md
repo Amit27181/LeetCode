@@ -42,6 +42,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Amit27181/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Amit27181/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0050-powx-n](https://github.com/Amit27181/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Amit27181/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Amit27181/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
@@ -163,6 +165,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Amit27181/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Amit27181/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Amit27181/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -201,6 +204,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Amit27181/LeetCode/tree/master/0202-happy-number) |
 ## Minimax
 |  |
 | ------- |
