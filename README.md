@@ -32,6 +32,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Amit27181/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amit27181/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amit27181/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Amit27181/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -52,6 +53,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0771-jewels-and-stones](https://github.com/Amit27181/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amit27181/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Amit27181/LeetCode/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +181,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
