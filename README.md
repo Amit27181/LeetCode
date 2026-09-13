@@ -82,6 +82,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Amit27181/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Amit27181/LeetCode/tree/master/0342-power-of-four) |
+| [0504-base-7](https://github.com/Amit27181/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amit27181/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0058-length-of-last-word](https://github.com/Amit27181/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Amit27181/LeetCode/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/Amit27181/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Amit27181/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Amit27181/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
