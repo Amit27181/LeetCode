@@ -79,6 +79,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0202-happy-number](https://github.com/Amit27181/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Amit27181/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Amit27181/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Amit27181/LeetCode/tree/master/0342-power-of-four) |
