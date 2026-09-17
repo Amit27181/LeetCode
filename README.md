@@ -73,6 +73,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amit27181/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Amit27181/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Amit27181/LeetCode/tree/master/0069-sqrtx) |
@@ -135,6 +136,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amit27181/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Amit27181/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Amit27181/LeetCode/tree/master/0326-power-of-three) |
@@ -215,6 +217,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amit27181/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amit27181/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
