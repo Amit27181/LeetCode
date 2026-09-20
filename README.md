@@ -166,6 +166,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0520-detect-capital](https://github.com/Amit27181/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Amit27181/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Amit27181/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Amit27181/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
@@ -246,6 +247,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Amit27181/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
