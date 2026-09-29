@@ -44,6 +44,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0001-two-sum](https://github.com/Amit27181/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amit27181/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Amit27181/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amit27181/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
@@ -191,6 +192,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Amit27181/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amit27181/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit27181/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -233,12 +235,14 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0002-add-two-numbers](https://github.com/Amit27181/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amit27181/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Amit27181/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Amit27181/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amit27181/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Amit27181/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Amit27181/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Amit27181/LeetCode/tree/master/0202-happy-number) |
 ## Minimax
