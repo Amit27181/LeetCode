@@ -94,6 +94,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0836-rectangle-overlap](https://github.com/Amit27181/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Amit27181/LeetCode/tree/master/1323-maximum-69-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Amit27181/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1922-count-good-numbers](https://github.com/Amit27181/LeetCode/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
