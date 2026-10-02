@@ -8,6 +8,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0001-two-sum](https://github.com/Amit27181/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amit27181/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Amit27181/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Amit27181/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -192,6 +193,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amit27181/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Amit27181/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -217,6 +219,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amit27181/LeetCode/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/Amit27181/LeetCode/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit27181/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
