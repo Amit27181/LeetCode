@@ -229,6 +229,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amit27181/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Amit27181/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -295,4 +296,12 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0020-valid-parentheses](https://github.com/Amit27181/LeetCode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amit27181/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amit27181/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
