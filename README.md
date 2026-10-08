@@ -178,6 +178,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0520-detect-capital](https://github.com/Amit27181/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Amit27181/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit27181/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -235,6 +236,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Amit27181/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit27181/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -300,6 +302,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amit27181/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit27181/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
