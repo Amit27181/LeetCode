@@ -14,6 +14,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Amit27181/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Amit27181/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amit27181/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amit27181/LeetCode/tree/master/0136-single-number) |
@@ -65,6 +66,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Amit27181/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
@@ -200,6 +202,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0011-container-with-most-water](https://github.com/Amit27181/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Amit27181/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Amit27181/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Amit27181/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Amit27181/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amit27181/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Amit27181/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -278,6 +281,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Amit27181/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Amit27181/LeetCode/tree/master/0075-sort-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -317,4 +321,8 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Amit27181/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Amit27181/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
