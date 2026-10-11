@@ -34,6 +34,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amit27181/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit27181/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Amit27181/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Amit27181/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amit27181/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amit27181/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -216,6 +217,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Amit27181/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
