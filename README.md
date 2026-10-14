@@ -19,6 +19,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amit27181/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amit27181/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amit27181/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit27181/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amit27181/LeetCode/tree/master/0217-contains-duplicate) |
@@ -115,6 +116,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0033-search-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Amit27181/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amit27181/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amit27181/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amit27181/LeetCode/tree/master/0349-intersection-of-two-arrays) |
