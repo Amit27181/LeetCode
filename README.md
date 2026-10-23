@@ -42,6 +42,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amit27181/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amit27181/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Amit27181/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amit27181/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Amit27181/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -134,6 +135,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0231-power-of-two](https://github.com/Amit27181/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amit27181/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amit27181/LeetCode/tree/master/0342-power-of-four) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Amit27181/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
