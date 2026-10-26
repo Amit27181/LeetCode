@@ -110,6 +110,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Amit27181/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1922-count-good-numbers](https://github.com/Amit27181/LeetCode/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Amit27181/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amit27181/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amit27181/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -196,6 +197,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Amit27181/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amit27181/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Amit27181/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit27181/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amit27181/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Amit27181/LeetCode/tree/master/3794-reverse-string-prefix) |
