@@ -17,6 +17,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0075-sort-colors](https://github.com/Amit27181/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Amit27181/LeetCode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amit27181/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amit27181/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amit27181/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amit27181/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -143,6 +144,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amit27181/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amit27181/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Amit27181/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -356,6 +358,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0100-same-tree](https://github.com/Amit27181/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Amit27181/LeetCode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amit27181/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,4 +374,9 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | ------- |
 | [0100-same-tree](https://github.com/Amit27181/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Amit27181/LeetCode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amit27181/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amit27181/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
