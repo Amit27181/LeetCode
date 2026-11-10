@@ -47,6 +47,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [3483-unique-3-digit-even-numbers](https://github.com/Amit27181/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amit27181/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amit27181/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Amit27181/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/Amit27181/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amit27181/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Amit27181/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -181,6 +182,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amit27181/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Amit27181/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Amit27181/LeetCode/tree/master/0877-stone-game) |
+| [3693-climbing-stairs-ii](https://github.com/Amit27181/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
