@@ -120,6 +120,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [2029-stone-game-ix](https://github.com/Amit27181/LeetCode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Amit27181/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amit27181/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Amit27181/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amit27181/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amit27181/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Amit27181/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -317,6 +318,7 @@ Daily LeetCode solutions with clean and optimized Java code. Consistently update
 | [0067-add-binary](https://github.com/Amit27181/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Amit27181/LeetCode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amit27181/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Amit27181/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amit27181/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
